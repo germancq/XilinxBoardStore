@@ -137,5 +137,6 @@
   <pin index="133" name ="SD7" iostandard="LVCMOS33" loc="R30"/>
   <pin index="134" name ="SD8" iostandard="LVCMOS33" loc="P29"/>
   <pin index="135" name ="SD9" iostandard="LVCMOS33" loc="P28"/>
+  <pin index="136" name ="qspi_sck_i" iostandard="LVCMOS33" loc="B10"/>
 </pins>
 </part_info>
